@@ -1,0 +1,10 @@
+# 运行时产物
+bili_cache/
+bili_cookie.txt
+__pycache__/
+
+# 系统 / 编辑器杂项
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
